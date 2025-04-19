@@ -2,7 +2,7 @@
 class Nikita:
     def __init__(self):
         self.name = "Никита"
-        self.city = "г.Екатеринбург."
+        self.city = "г.Екатеринбург"
         self.job = "Снабженец by day, Python-разработчик by night"
         self.learning_platform = "Skypro"
         self.stack = ["Python", "Git"]
