@@ -1,4 +1,5 @@
-```class Nikita:
+```
+class Nikita:
     def __init__(self):
         self.name = "Никита"
         self.city = "г.Екатеринбург."
@@ -40,3 +41,4 @@ if __name__ == "__main__":
     print("🛠 Текущий статус:", me.current_status(), "\n")
     me.daily_routine()
     me.future_plan()
+```
