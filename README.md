@@ -1,4 +1,4 @@
-```
+```Python
 class Nikita:
     def __init__(self):
         self.name = "Никита"
